@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A long announcement with details
-date: 
+date: 2022/07/06
 inline: false
 ---
 
